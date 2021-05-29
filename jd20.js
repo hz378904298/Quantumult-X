@@ -1,5 +1,5 @@
 /*
-QX:
+QX1.0: 
 https:\/\/api\.jd\.m\.com\/client/.action/?/functionld/=/receiveNecklaceCoupon url script-response-body https://raw.githubusercontent.com/hz378904298/Quantumult-X/main/jd20.js
 MITM = api.m.jd.com
 */
